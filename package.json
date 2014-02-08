@@ -1,0 +1,21 @@
+{
+  "name": "rework-splitsuit",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dombojs/rework-splitsuit.git"
+  },
+  "version": "0.0.1",
+  "description": "split SUIT stylesheets into responsive/IE rework objects",
+  "keywords": [
+    "responsive",
+    "mobile",
+    "suitcss",
+    "rework"
+  ],
+  "dependencies": {
+    "node.extend": "~1.0.9"
+  },
+  "bugs": {
+    "url": "https://github.com/dombojs/rework-splitsuit/issues"
+  }
+}
