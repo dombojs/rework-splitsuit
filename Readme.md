@@ -5,7 +5,7 @@
 
 ## Installation
 
-    $ npm install dombojs/rework-splitsuit
+    $ npm install rework-splitsuit
 
 ## Example
 
